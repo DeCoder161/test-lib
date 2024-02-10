@@ -7,7 +7,7 @@ def readme():
 
 
 setup(
-    name='speedfile',
+    name='test_lib',
     version='0.0.1',
     author='yarik_g',
     author_email='example@gmail.com',
